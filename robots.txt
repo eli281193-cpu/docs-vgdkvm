@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-rx5087.salamcuan.online/sitemap.xml
